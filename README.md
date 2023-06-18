@@ -6,3 +6,4 @@ Steps as below,
 3.	Run "npm run dev" to run the application.
 4.	Click on "History" option to see the previously searched places persisted using redux.
 
+![image](https://github.com/MilanNag/AutoComplete_GMap_React_Redux/assets/20636172/9d56553a-3801-4367-8e81-7cc2d3202c7b)
